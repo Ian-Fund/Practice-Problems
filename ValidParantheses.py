@@ -1,4 +1,4 @@
-
+# https://leetcode.com/problems/valid-parentheses/
 # Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 # Second solution implements a map and cleans up code from solution 1
 class Solution:
